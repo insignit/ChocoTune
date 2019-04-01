@@ -12,7 +12,8 @@ Choco.exe is compiled using [PS2EXE](https://gallery.technet.microsoft.com/scrip
 I already packaged choco.exe in the .intunewin format so It is ready for you to upload into Intune.
 
 First let's create a new Win32 application in intune.
-![AddApp](C:\Git Repositories\ChocoTune\Documentation\addapp.jpg)
+![AddApp](https://github.com/insignit/ChocoTune/blob/master/Documentation/addapp.JPG)
+
 
 
 
