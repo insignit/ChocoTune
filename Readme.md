@@ -47,7 +47,7 @@ This combines the Forces of Chocolatey and Intune, being able to use Chocolatey 
 
 **Examples**
 
-chocotune.exe install 7zip "\\fs01.contoso.com\choco,https://chocolatey.org/api/v2/,https://mychocorepo.azurewebsites.net/api/v2/"
+chocotune.exe install 7zip "\\\fs01.contoso.com\choco,https://chocolatey.org/api/v2/,https://mychocorepo.azurewebsites.net/api/v2/"
 
 chocotune.exe uninstall 7zip
 
