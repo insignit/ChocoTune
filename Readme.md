@@ -33,7 +33,7 @@ Please make sure that you use unique names for your packages when adding the Pub
 In the Requirements field, specify the Requirements for the Chocolatey packages you are going to Install.
 
 In the Detection rules field we use the Chocolatey Package location for Presence detection.
-![DetectionRules](https://github.com/insignit/ChocoTune/blob/master/Documentation/detectionrules.JPG)
+![DetectionRules](https://github.com/insignit/ChocoTune/blob/master/Documentation/DetectionRules.JPG)
 
 Leave the Return Codes to their default values.
 
